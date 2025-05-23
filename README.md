@@ -45,27 +45,27 @@ When **Seoul** is selected from the dropdown menu, the application provides deta
 ## EDA ggplot2
 
 
-<img src="https://github.com/user-attachments/assets/e261edfc-9eb7-4ecf-9e9a-b752581fd47b" width="600"/>
+<img src="https://github.com/user-attachments/assets/e261edfc-9eb7-4ecf-9e9a-b752581fd47b" width="500"/>
 
 This scatter plot titled **"Bike Rentals Over Time"** visualizes the daily bike rental activity in Seoul over the course of 2018. Each point on the graph represents the number of bikes rented on a specific date, with the x-axis showing the date and the y-axis representing the rental count. To avoid overplotting and ensure better visibility of overlapping points, the plot uses a transparency level (alpha = 0.3) and a purple color for the data points. The visualization reveals seasonal trends, with higher rental activity observed during the warmer months (particularly between late spring and early autumn), and significantly fewer rentals during the winter period. This plot is helpful for understanding usage patterns, spotting fluctuations in demand, and providing insights for transportation planning or policy-making related to bike-sharing systems.
 
-<img src="https://github.com/user-attachments/assets/877257f6-4ba9-46a0-8c5a-fe22cfb94f89" width="600"/>
+<img src="https://github.com/user-attachments/assets/877257f6-4ba9-46a0-8c5a-fe22cfb94f89" width="500"/>
 
 The scatter plot titled **"Bike Rentals Over Time Colored by Hour"** visualizes the number of bikes rented in Seoul throughout 2018, with an additional dimension represented by color: the hour of the day when the rental occurred. Each point corresponds to a rental count on a specific date and hour, with the x-axis representing the date, the y-axis showing the number of bikes rented, and the color indicating the hour (from 0 to 23). The color scale helps highlight patterns in rental behavior throughout the day, revealing trends such as increased rentals during certain hours—typically morning and evening commute times. The use of transparency (`alpha = 0.5`) improves readability by reducing overplotting, and the color legend allows us to distinguish hourly trends across the entire year. This enhanced visualization provides deeper insight into both temporal and daily cyclical patterns in bike-sharing usage.
 
-![image](https://github.com/user-attachments/assets/8a12e528-86a4-438a-a462-b903840b0046)
+<img src="https://github.com/user-attachments/assets/8a12e528-86a4-438a-a462-b903840b0046" width="500"/>
 
 The plot titled **"Histogram and Kernel Density of Rented Bike Count"** provides a statistical overview of the distribution of bike rental counts in Seoul. The histogram represents the frequency distribution of the number of bikes rented, normalized so that the y-axis shows probability density rather than raw counts. This normalization allows for comparison with the overlaid red kernel density curve, which estimates the continuous probability distribution of the data. The histogram uses a bin width of 50 and is styled with sky blue fill and black borders, while the smooth red line provides a visual indication of where rental counts are concentrated. The plot reveals a right-skewed distribution, with most rental counts clustering at lower values and tapering off at higher counts. This visualization is useful for understanding the overall pattern and spread of rental activity, identifying peaks in demand, and evaluating the likelihood of various rental count levels.
 
-![image](https://github.com/user-attachments/assets/7e7ae650-ca4c-4035-b872-e1d7e6b8af83)
+<img src="https://github.com/user-attachments/assets/7e7ae650-ca4c-4035-b872-e1d7e6b8af83" width="500"/>
 
 The plot titled **"Correlation of Rented Bike Count and Temperature by Season"** displays scatter plots for each season (Winter, Spring, Summer, Autumn), illustrating the relationship between temperature and the number of rented bikes. Each point represents a rental event, with its position determined by temperature and bike count, and its color indicating the hour of the day. The use of `facet_wrap` divides the data by season into four subplots, enabling easy comparison of seasonal trends. The opacity is set to 0.5 to reduce overplotting, revealing underlying patterns more clearly. The plot suggests a strong positive correlation between temperature and bike rentals, particularly during Spring, Summer, and Autumn. In Winter, this relationship is weaker, likely due to cold temperatures discouraging bike use. The color gradient shows that certain hours, especially midday to early evening, are associated with higher rental counts. Overall, this visualization effectively highlights how temperature and time of day interact to influence bike rental behavior across seasons.
 
-![image](https://github.com/user-attachments/assets/76bd130a-b2ee-4769-a48b-fdc2fc55f0da)
+<img src="https://github.com/user-attachments/assets/76bd130a-b2ee-4769-a48b-fdc2fc55f0da" width="500"/>
 
 The scatter plot illustrates the overall relationship between **temperature** and the **number of rented bikes**, with data points colored by the **hour of the day**. Each point represents an observation, and the color gradient provides a temporal dimension, helping to identify when during the day bike rentals are more or less frequent. The use of transparency (`alpha = 1/5`) helps reduce visual clutter and reveals dense patterns within the dataset. The plot shows a clear positive correlation: as temperature increases, the number of bike rentals also tends to increase. Notably, warmer temperatures (above 10°C) see a significant rise in rentals, particularly during midday and early evening hours (lighter colors). Cooler temperatures, especially those below 0°C, correspond with lower rental activity. This plot effectively captures how both **temperature** and **time of day** jointly influence bike rental behavior in Seoul.
 
-![image](https://github.com/user-attachments/assets/e8c1cad6-a467-4e24-8675-fbe00fdbf47e)
+<img src="https://github.com/user-attachments/assets/e8c1cad6-a467-4e24-8675-fbe00fdbf47e" width="500"/>
 
 The boxplot visualization displays how **bike rental activity** varies by **hour of the day** across different **seasons**. Each panel corresponds to a season—Winter, Spring, Summer, and Autumn—allowing for side-by-side comparison.
 
@@ -75,7 +75,7 @@ The boxplots also reveal **outliers** (dots) during peak hours, particularly in 
 
 This visualization effectively communicates how both **seasonality** and **daily rhythms** influence bike rental behavior in Seoul, with Summer afternoons and Autumn mornings being the most active and Winter being the least.
 
-![image](https://github.com/user-attachments/assets/eadb0d40-8db4-451d-bcea-f6d714dd30f2)
+<img src="https://github.com/user-attachments/assets/eadb0d40-8db4-451d-bcea-f6d714dd30f2" width="500"/>
 
 The plot presents the daily total rainfall and snowfall data for the year 2018 in Seoul. The x-axis represents the dates throughout the year, while the y-axis shows the total precipitation in millimeters. Two lines distinguish the types of precipitation: rainfall is shown in blue and snowfall in grey.
 

@@ -28,10 +28,13 @@ These cities were chosen for their similarity in bike-sharing fleet sizes and ur
 ## 📷 Application Preview
 
 Take a look at how the Bike-Sharing Demand Prediction App works in action:
+
 ![Screenshot 2025-05-23 222427](https://github.com/user-attachments/assets/dd8bda4c-b142-473f-bb16-466046f82204)
+
 The image below showcases the **"All Cities"** selection mode, where weather and demand data from multiple locations are visualized simultaneously.
 
 <img width="959" alt="Screenshot 2025-05-23 222801" src="https://github.com/user-attachments/assets/2773d94c-47b1-4b60-b2b4-0421a4133545" />
+
 This a focused view of **Suzhou** selected from the dropdown. The map zooms in on Suzhou with a pinpoint marker, providing localized data insights.
 
 ---

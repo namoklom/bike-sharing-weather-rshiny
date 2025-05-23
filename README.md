@@ -45,9 +45,9 @@ When **Seoul** is selected from the dropdown menu, the application provides deta
 ## EDA ggplot2
 
 
-![image](https://github.com/user-attachments/assets/e261edfc-9eb7-4ecf-9e9a-b752581fd47b)
+<img src="https://github.com/user-attachments/assets/e261edfc-9eb7-4ecf-9e9a-b752581fd47b" width="300"/>
 
-This scatter plot titled **"Bike Rentals Over Time"** visualizes the daily bike rental activity in Seoul over the course of 2018. Each point on the graph represents the number of bikes rented on a specific date, with the x-axis showing the date and the y-axis representing the rental count. To avoid overplotting and ensure better visibility of overlapping points, the plot uses a transparency level (`alpha = 0.3`) and a purple color for the data points. The visualization reveals seasonal trends, with higher rental activity observed during the warmer months (particularly between late spring and early autumn), and significantly fewer rentals during the winter period. This plot is helpful for understanding usage patterns, spotting fluctuations in demand, and providing insights for transportation planning or policy-making related to bike-sharing systems.
+The scatter plot "Bike Rentals Over Time" shows daily bike rentals in Seoul throughout 2018. Each purple point (with alpha = 0.3) represents rentals on a given day. The plot highlights seasonal trends, with higher rentals in warmer months and lower in winter, offering insights into usage patterns for transportation planning.
 
 ![image](https://github.com/user-attachments/assets/877257f6-4ba9-46a0-8c5a-fe22cfb94f89)
 

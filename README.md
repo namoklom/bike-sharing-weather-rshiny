@@ -1,5 +1,11 @@
 # Bike-Sharing Demand Prediction App with R Shiny and Leaflet
 
+## 👤 Author
+
+| Name            | Role              | LinkedIn                                      |
+|-----------------|-------------------|-----------------------------------------------|
+| Jason Emmanuel  | Data Scientist | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
+
 An interactive web application built using **R Shiny** that forecasts hourly **bike-sharing demand** based on **weather conditions**. The app uses real-time weather data from the **OpenWeather API** and a regression model trained on historical Seoul bike-sharing data to make demand predictions for multiple global cities.
 
 ---

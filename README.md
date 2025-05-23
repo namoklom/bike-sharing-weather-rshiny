@@ -37,6 +37,10 @@ The image below showcases the **"All Cities"** selection mode, where weather and
 
 This a focused view of **Suzhou** selected from the dropdown. The map zooms in on Suzhou with a pinpoint marker, providing localized data insights.
 
+![Screenshot 2025-05-23 222538](https://github.com/user-attachments/assets/04ae6c80-f8bd-4df9-a30d-3c42195ec841)
+
+When **Seoul** is selected from the dropdown menu, the application provides detailed weather information and bike-sharing demand predictions for the city. The current weather in Seoul shows a temperature of 14.99°C, visibility of 10,000 meters, humidity at 90%, wind speed of 3.61 m/s, and the timestamp is 2025-05-23 18:00:00. The left panel features interactive plots, including a 5-day temperature trend showing recent temperature changes, a bike-sharing demand prediction trend forecasting upcoming demand, and a humidity versus demand plot to explore their relationship. This view helps users quickly understand how weather factors influence bike-sharing demand in Seoul.
+
 ---
 
 ## 🔍 Features & Functionality

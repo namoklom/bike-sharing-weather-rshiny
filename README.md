@@ -79,11 +79,8 @@ install.packages(c("shiny", "leaflet", "httr", "jsonlite",
                    "ggplot2", "dplyr", "tidyr", "lubridate", "scales", "caret"))
 
 # 2. Clone or download this repository
-git clone https://github.com/your-username/bike-demand-shiny.git
+git clone https://github.com/namoklom/bike-sharing-weather-rshiny.git
 cd bike-demand-shiny
 
 # 3. Open the app.R file in RStudio or run it via R
 shiny::runApp(".")
-
-# 4. Insert your API key into the script
-# Replace: api_key <- "your_api_key_here"

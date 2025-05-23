@@ -1,4 +1,4 @@
-# Bike-Sharing Demand Prediction App with R Shiny and Leaflet
+# Bike-Sharing Demand Prediction Application with R Shiny and Leaflet
 
 ## 👤 Author
 

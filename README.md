@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aa136322-75c6-4fb6-a8c5-b46316ae97be)![image](https://github.com/user-attachments/assets/56733af8-6497-449f-b062-9cf07dd18d9c)![image](https://github.com/user-attachments/assets/2406505b-e6bd-4703-8474-07c1f6ebb8e7)# Bike-Sharing Demand Prediction Application with R Shiny and Leaflet
+# Bike-Sharing Demand Prediction Application with R Shiny and Leaflet
 
 ## 👤 Author
 

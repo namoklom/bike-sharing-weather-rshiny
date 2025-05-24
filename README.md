@@ -2,7 +2,7 @@
 
 ## 👤 Author
 
-| Name            | Role              | LinkedIn                                      |
+| Name            | Role  s            | LinkedIn                                      |
 |-----------------|-------------------|-----------------------------------------------|
 | Jason Emmanuel  | Data Scientist | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
 

@@ -116,3 +116,4 @@ cd bike-demand-shiny
 
 # 3. Open the app.R file in RStudio or run it via R
 shiny::runApp(".")
+```

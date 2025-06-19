@@ -16,7 +16,7 @@ get_weather_forecaset_by_cities <- function(city_names) {
   
   for (city_name in city_names) {
     url_get <- 'https://api.openweathermap.org/data/2.5/forecast'
-    api_key <- "2ce80a99a936e6fd675376fa4eecb39a"
+    api_key <- "SECRET"
     forecast_query <- list(q = city_name, appid = api_key, units = "metric")
     response <- GET(url_get, query = forecast_query)
     json_list <- content(response, as = "parsed")
